@@ -1,1 +1,1 @@
-it is parcrtice project for git 
+it is practice project for git 
